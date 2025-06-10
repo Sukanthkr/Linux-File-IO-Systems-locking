@@ -77,8 +77,8 @@ int main(int argc, char *argv[]) {
 ```
 
 
-
-
+## OUTPUT
+![Alt text](output.png)
 
 ## 2.To Write a C program that illustrates files locking
 
@@ -154,11 +154,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-## 1.To Write a C program that illustrates files copyin
 
-![Alt text](output.png)
 
-## 2.To Write a C program that illustrates files locking
 ![Alt text](output2(i).png)
 ![Alt text](ii.png)
 ![Alt text](iii.png)
